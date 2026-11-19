@@ -37,7 +37,7 @@
 <section class="section shop-section" id="boutique"><div class="section-head"><div><div class="eyebrow">COLLECTION 001</div><h2>La sélection AVK.</h2></div><p class="section-sub">Les essentiels du moment.<br>Choisis tes favoris.</p></div>
 <div class="toolbar"><div class="filters" id="filters"><button class="filter active" data-filter="Tout">Tout voir</button><button class="filter" data-filter="Mode">Streetwear</button><button class="filter" data-filter="Sneakers">Sneakers</button><button class="filter" data-filter="Accessoires">Accessoires</button><button class="filter" data-filter="Tech">Tech & lifestyle</button></div><select class="sort" id="sort" aria-label="Trier les produits"><option value="featured">Trier : sélection</option><option value="low">Prix croissant</option><option value="high">Prix décroissant</option></select></div>
 <div class="result-count" id="resultCount" aria-live="polite"></div><div class="product-grid" id="products"></div>
-<p class="demo-note">CATALOGUE CONCEPT — 24 idées de produits et prix publics indicatifs imaginés pour positionner AVK à prix accessibles. Les photos sont illustratives. Aucun article n'est confirmé en stock : fournisseurs, prix d'achat, qualité, tailles, livraison et marge restent à valider avant la mise en vente.</p>
+<p class="demo-note">CATALOGUE CONCEPT — 36 idées de produits et prix publics indicatifs imaginés pour positionner AVK à prix accessibles. Les photos sont illustratives. Aucun article n'est confirmé en stock : fournisseurs, prix d'achat, qualité, tailles, livraison et marge restent à valider avant la mise en vente.</p>
 </section>
 <section class="feature-band" id="about"><div><div class="eyebrow">THE AVK MINDSET</div><h2>Simple. Fort. Toi.</h2><p>Le style n'a pas besoin de permission. Il a juste besoin d'être le tien.</p></div><a class="outline-btn" href="#categories">DÉCOUVRIR AVK ↗</a></section>
 <section class="section"><div class="section-head"><div><div class="eyebrow">POURQUOI AVK</div><h2>On construit la suite.</h2></div></div><div class="values"><article class="value"><b>01 — UNE IDENTITÉ</b><p>Un univers visuel cohérent, direct et inspiré de la culture streetwear.</p></article><article class="value"><b>02 — UNE SÉLECTION</b><p>Les références seront retenues après vérification de leur qualité et de leur provenance.</p></article><article class="value"><b>03 — DE LA TRANSPARENCE</b><p>Prix, livraison, retours et informations produits seront précisés avant l'ouverture des ventes.</p></article></div></section>
@@ -73,7 +73,19 @@ const products=[
 {id:21,name:"Sac à dos Daily",cat:"Accessoires",price:29.90,label:"CARRY",img:"https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=85"},
 {id:22,name:"Bracelet Minimal",cat:"Accessoires",price:12.90,label:"DETAIL",img:"https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=800&q=85"},
 {id:23,name:"Enceinte Bluetooth",cat:"Tech",price:29.90,label:"SOUND",img:"https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=800&q=85"},
-{id:24,name:"Support téléphone",cat:"Tech",price:12.90,label:"DAILY",img:"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=85"}
+{id:24,name:"Support téléphone",cat:"Tech",price:12.90,label:"DAILY",img:"https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=85"},
+{id:25,name:"Jean Baggy Denim",cat:"Mode",price:39.90,label:"BAGGY",img:"https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=800&q=85"},
+{id:26,name:"Veste Bomber",cat:"Mode",price:49.90,label:"LAYER",img:"https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=800&q=85"},
+{id:27,name:"Maillot Street",cat:"Mode",price:29.90,label:"SPORT",img:"https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=85"},
+{id:28,name:"Débardeur Oversize",cat:"Mode",price:16.90,label:"SUMMER",img:"https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=800&q=85"},
+{id:29,name:"Pantalon Parachute",cat:"Mode",price:34.90,label:"UTILITY",img:"https://images.unsplash.com/photo-1473966968600-fa801b869a1a?auto=format&fit=crop&w=800&q=85"},
+{id:30,name:"Veste Denim",cat:"Mode",price:54.90,label:"DENIM",img:"https://images.unsplash.com/photo-1543076447-215ad9ba6923?auto=format&fit=crop&w=800&q=85"},
+{id:31,name:"Sneakers Retro",cat:"Sneakers",price:59.90,label:"RETRO",img:"https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?auto=format&fit=crop&w=800&q=85"},
+{id:32,name:"Sneakers High",cat:"Sneakers",price:64.90,label:"HIGH TOP",img:"https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=800&q=85"},
+{id:33,name:"Sac Banane",cat:"Accessoires",price:19.90,label:"ON THE GO",img:"https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=85"},
+{id:34,name:"Ceinture Street",cat:"Accessoires",price:14.90,label:"DETAIL",img:"https://images.unsplash.com/photo-1624222247344-550fb8e9f1a5?auto=format&fit=crop&w=800&q=85"},
+{id:35,name:"Écouteurs sans fil",cat:"Tech",price:24.90,label:"AUDIO",img:"https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=800&q=85"},
+{id:36,name:"Coque téléphone",cat:"Tech",price:12.90,label:"DAILY",img:"https://images.unsplash.com/photo-1601593346740-925612772716?auto=format&fit=crop&w=800&q=85"}
 ];
 const euro=n=>n.toLocaleString("fr-FR",{style:"currency",currency:"EUR"});
 let filter="Tout",cart={},favorites=new Set(),selectedProduct=null;
