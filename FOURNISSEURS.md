@@ -29,6 +29,20 @@ Le site actuel est une vitrine HTML hébergée dans un dépôt GitHub. Son panie
 
 Pour automatiser réellement les ventes, il faudra choisir une solution de boutique compatible ou développer une intégration sécurisée. Ne jamais mettre de clé API secrète dans le code HTML public du site. Avant toute ouverture des paiements, il faudra aussi préparer les informations légales, CGV, politique de confidentialité, livraison, retours et rétractation.
 
+## Comparatif complémentaire vérifié le 19 novembre 2026
+
+Trois pistes POD à tester avant de sélectionner les références du catalogue :
+
+| Fournisseur | Intérêt | Coûts et limites à garder en tête |
+|---|---|---|
+| [TPOP](https://www.tpop.com/pricing) | Prestataire français, POD sans stock, colis à la marque, intégrations notamment Shopify et WooCommerce. | Compte POD gratuit annoncé ; livraison France affichée à partir de 3,95 € HT pour certains produits (t-shirts, tote bags, casquettes) et 5,20 € HT pour certains sweats/hoodies. Délais annoncés : production 2 à 4 jours puis 2 à 3 jours ouvrés en France. Vérifier le tarif exact du modèle et les intégrations disponibles pour AVK. |
+| [Printful](https://www.printful.com/fr/print-on-demand-france) | Catalogue large, production/expédition à la commande, API et intégrations e-commerce. | Pas d'abonnement obligatoire annoncé pour démarrer ; le coût dépend du produit, du marquage, de la livraison et des taxes. Le site AVK étant un HTML personnalisé, il faudra une intégration côté serveur ou une gestion manuelle sécurisée. |
+| [DropShipPrint](https://dropshipprint.fr/fr/products/list) | Catalogue textile et accessoires, personnalisation à la demande, piste française. | Le catalogue public affiche par exemple des t-shirts dès 9,80 € HT, des casquettes dès 9,40 € HT et des hoodies dès 18,70 € HT. Ce sont des prix d'appel : impression, options, livraison et TVA doivent être confirmées avant calcul de marge. |
+
+Sources de contrôle : [tarifs et livraison TPOP](https://www.tpop.com/page/shipping), [offres TPOP](https://www.tpop.com/pricing), [catalogue DropShipPrint](https://dropshipprint.fr/fr/products/list), [fonctionnement Printful en France](https://www.printful.com/fr/print-on-demand-france).
+
+**À retenir :** le coût affiché d'un produit vierge ou personnalisé n'est pas le coût complet rendu chez le client. Comparer pour chaque référence le prix produit + impression + livraison + TVA + frais de paiement, puis commander un échantillon. Les délais annoncés sont indicatifs et doivent être confirmés au moment de la commande.
+
 ## Autres pistes à garder pour plus tard
 
 | Fournisseur | Intérêt pour AVK | À vérifier |
