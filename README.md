@@ -35,3 +35,9 @@ Ne présente pas les articles de démonstration comme disponibles et ne prends p
 Dans le dépôt GitHub : **Settings → Pages**. Choisir **Deploy from a branch**, sélectionner la branche main et le dossier racine (/), puis enregistrer. GitHub affichera l'adresse publiée dans cette même section après le déploiement.
 
 Le dépôt du site est indépendant de tout autre projet : les modifications ici concernent uniquement avk-shop.
+
+
+## Catalogue et fournisseurs
+
+- Le catalogue de démonstration contient 24 idées de produits avec des prix publics indicatifs : voir `index.html`.
+- Les pistes de fournisseurs et les vérifications à effectuer sont regroupées dans [FOURNISSEURS.md](FOURNISSEURS.md).
