@@ -1,8 +1,20 @@
 # AVK SHOP — Sélection de sourcing DHgate (19 novembre 2026)
 
+## Règle de prix AVK demandée
+
+Pour chaque référence dont le prix fournisseur DHgate a été vérifié, appliquer une majoration de 10 % au prix fournisseur :
+
+**Prix AVK de base = prix DHgate × 1,10**
+
+Exemples : 10 € → 11 € ; 20 € → 22 € ; 30 € → 33 € ; 50 € → 55 €.
+
+Cette majoration de 10 % n'est pas un bénéfice net garanti. Avant de publier un prix définitif, calculer aussi le transport, les droits et taxes éventuels, les frais de paiement, l'emballage, les coûts de traitement et une provision pour retours/défauts. Ne pas convertir un prix USD en EUR sans utiliser le taux de change applicable au moment du calcul.
+
 ## Statut
 
 Cette sélection est une **shortlist de produits à rechercher et tester**, pas une liste de fournisseurs validés ni un catalogue prêt à vendre. Les résultats publics consultables donnent des catégories et des exemples, mais je n'ai pas pu vérifier de fiches DHgate individuelles avec leurs vendeurs, avis récents, variantes et prix livré en France. Aucun achat n'a été effectué.
+
+**Important :** les prix publics actuellement présents sur la vitrine HTML sont des prix de démonstration, pas des prix calculés à partir de fiches DHgate. Ne pas les présenter comme des prix fournisseurs majorés de 10 %. Pour appliquer la règle à un produit, il faut d'abord son lien DHgate exact, son prix pour la variante choisie, les frais de livraison vers la France et la devise.
 
 ## Positionnement recommandé
 
@@ -28,7 +40,7 @@ AVK doit commencer par des produits streetwear **sans marque tierce**, faciles �
 | 14 | Support téléphone non électrique | 12,90 € | Petit accessoire pratique | Stabilité, compatibilité, matériaux |
 | 15 | Tote bag épais / sac toile | 14,90 € | Simple à personnaliser plus tard | Grammage, dimensions, anses, résistance |
 
-*Prix publics envisagés uniquement pour tester le positionnement. Ils ne constituent pas des recommandations finales : calculer la marge sur le coût complet rendu en France avant publication.
+*Prix publics envisagés uniquement pour tester le positionnement. Ils ne constituent pas des recommandations finales : calculer le prix avec la règle +10 % sur le prix DHgate vérifié et contrôler le coût complet rendu en France avant publication.
 
 ## Ce que je ne retiens pas pour le lancement
 
@@ -57,7 +69,7 @@ Conserver les échanges et payer uniquement via DHgate. Ne pas accepter de paiem
 
 Coût complet unitaire = prix article + transport + droits/taxes éventuels + frais de paiement + emballage + coût de traitement + provision retours/défauts.
 
-Prix public = coût complet / (1 - taux de marge brute visé). Faire le calcul en HT/TTC selon le régime fiscal applicable et demander conseil avant de vendre.
+Prix AVK de base selon la consigne : prix DHgate × 1,10. Le prix final doit ensuite être contrôlé par rapport au coût complet, au régime fiscal applicable et à la marge réelle. Si le coût complet dépasse le prix calculé, ne pas publier le produit à perte.
 
 ## Ressources de repérage (non affiliées à AVK, non garanties)
 
