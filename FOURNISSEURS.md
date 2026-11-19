@@ -1,41 +1,55 @@
-# AVK SHOP — Pistes fournisseurs à vérifier
+# AVK SHOP — Pistes fournisseurs et plan sans stock
 
 Ce document est une liste de prospection, pas une validation de fournisseur. Les prix publics du catalogue du site sont des **prix de vente envisagés**, et non des prix d'achat fournisseurs confirmés.
 
-## Pistes repérées
+## Modèle choisi : vendre sans stock
 
-| Fournisseur | Intérêt pour AVK | Ce qui est annoncé publiquement | À vérifier avant toute commande |
+AVK teste d'abord le **print-on-demand (POD)** : le client commande un vêtement personnalisé, le prestataire le produit puis l'expédie. Cela évite d'acheter un stock à l'avance, mais le coût unitaire est généralement plus élevé qu'une production en volume.
+
+## Comparaison des deux pistes prioritaires
+
+| Prestataire | Ce que les pages officielles indiquent | Coût / automatisation | Point de vigilance |
 |---|---|---|---|
-| [STYCLOV](https://www.europages.fr/entreprises/france/streetwear.html) | T-shirts oversize et basiques streetwear | Europages présente notamment un t-shirt oversize 230 g/m² en pack de 8 pièces. | Prix exact, minimum de commande, composition, tailles/couleurs, livraison et retours. |
-| [Black Industry — espace professionnel](https://blackindustry.com/pages/espace-professionnel) | T-shirts, sweats, hoodies, pantalons et accessoires unis à personnaliser | Le site annonce plus de 500 références, plus de 40 coloris et une expédition annoncée sous 24/48 h pour les professionnels. | Créer/faire valider un compte pro, obtenir le tarif HT, les stocks et les conditions revendeur. |
-| [Uniforméo](https://uniformeo.com/) | Textile vierge, casquettes, sacs et accessoires personnalisables | Le site annonce des références en stock et des tarifs réservés aux comptes professionnels. | Demander l'accès pro, les prix HT, les minimums et le coût de personnalisation. |
-| [Bee Wholesale](https://bee-wholesale.com/) | Box de vêtements de seconde main : t-shirts, jeans, sweats et vestes | Le fournisseur propose des lots de vêtements vintage/seconde main. | Les lots sont assortis : vérifier tailles, marques, état réel, composition des box et marge. Ce n'est pas du dropshipping à l'unité. |
-| [Printful](https://www.printful.com/fr) | Créer des t-shirts/sweats AVK imprimés à la demande, sans stock initial | Modèle print-on-demand : production après commande. | Calculer le prix unitaire + livraison, commander des échantillons et vérifier les délais vers la France. |
-| [DropShipPrint](https://dropshipprint.fr/fr/) | Textile personnalisé à la demande avec production annoncée en France | Le site annonce l'impression à la demande sans minimum et l'expédition en marque blanche. | Demander les tarifs complets, les références disponibles, les délais, les retours et un échantillon. |
-| [Amikal Design](https://www.amikal-design.com/) | Textile vierge et personnalisé pour construire une petite collection AVK | Le site annonce un large catalogue textile et des tarifs dégressifs. | Demander un devis revendeur, les prix unitaires, les frais de marquage et les délais. |
-| [Y2K Streetwear — espace grossiste](https://y2k-streetwear.com/pages/grossiste-y2k) | Pièces mode urbaine/Y2K : cargos, denim et accessoires | La page grossiste annonce un minimum de commande de 200 € HT et des tarifs dégressifs dès 10 pièces. | Vérifier l'identité légale, les stocks, la qualité, les conditions de retour et si la livraison directe client est réellement possible. |
-| [Effective](https://www.europages.fr/) | Piste de distribution de marques et collections streetwear | Un article sectoriel récent la présente comme distributeur orienté mode urbaine, pas comme une plateforme de dropshipping automatisée. | Identifier le contact B2B officiel, les marques distribuées, les minimums et les conditions de revente. |
-| [US Fripe Wholesale](https://www.europages.fr/) | Vêtements vintage, sportswear et workwear en lots | Piste de grossiste seconde main/vintage citée dans une sélection sectorielle. | Retrouver le site et les coordonnées officielles, vérifier l'authenticité, les lots et les retours. |
-| [ScaleOrder](https://www.scaleorder.fr/) | Sourcing, personnalisation et fulfillment | Présente une offre de sourcing et d'accompagnement logistique ; les modalités dépendent du projet. | Obtenir un devis écrit, vérifier les frais, délais, contrôle qualité et conditions de fulfillment. |
+| [Printful](https://www.printful.com/fr) | Catalogue de plus de 450 produits personnalisables, sans minimum de commande ; bons de livraison en marque blanche avec logo ou message. | Offre gratuite annoncée ; facturation à chaque commande pour le produit, l'impression, la livraison et les taxes éventuelles. Intégrations e-commerce disponibles. | Vérifier le prix final de chaque vêtement et la livraison vers la France ; commander un échantillon avant publication. |
+| [DropShipPrint](https://dropshipprint.fr/fr/) | Impression textile à la demande, sans minimum, production annoncée en France et expédition en marque blanche selon la formule. | Offre gratuite : paiement à la commande, mais le colis indique DropShipPrint comme expéditeur. Offre Shop 1 annoncée à 19 € TTC avec expédition à votre nom. API Shopify annoncée à 29 € TTC. | Le raccordement d'un site personnalisé comme AVK nécessite un développement/API ou un processus manuel. L'offre gratuite n'est pas en marque blanche. Confirmer les tarifs produits, livraison et délais. |
 
-## Première stratégie recommandée
+Sources officielles consultées : [tarifs DropShipPrint](https://dropshipprint.fr/fr/tarifs), [FAQ DropShipPrint](https://dropshipprint.fr/fr/faq), [fonctionnement DropShipPrint](https://dropshipprint.fr/fr/how-it-works), [tarifs Printful](https://help.printful.com/hc/fr/articles/50261163157905-Combien-co%C3%BBte-Printful).
 
-Pour démarrer avec un budget limité, ne commande pas immédiatement un gros stock. Compare d'abord deux modèles :
+## Recommandation de départ
 
-1. **Sans stock :** demander un devis et un échantillon à Printful et DropShipPrint pour créer 2 ou 3 pièces AVK personnalisées.
-2. **Petit stock :** demander les tarifs et minimums à Black Industry et STYCLOV pour tester quelques t-shirts et sweats unis.
+1. Comparer en priorité Printful et DropShipPrint sur **un t-shirt**, **un hoodie** et **un sweat**.
+2. Créer seulement 2 ou 3 designs AVK simples pour le premier test.
+3. Commander un échantillon de chaque prestataire retenu : vérifier tissu, coupe, impression, emballage et délai réel.
+4. Calculer la marge avant de fixer le prix public : prix payé au prestataire + livraison + frais de paiement + éventuels retours + taxes.
+5. Ne publier aucun article comme disponible tant que son prix, ses tailles, son délai et son échantillon ne sont pas validés.
 
-Le vintage en lots et les fournisseurs avec minimum de commande peuvent être intéressants plus tard, mais ils immobilisent davantage d'argent. Aucun fournisseur de cette liste n'est considéré comme validé ou connecté automatiquement au site.
+## Important : état technique du site AVK
 
-## Règles avant de publier un vrai produit
+Le site actuel est une vitrine HTML hébergée dans un dépôt GitHub. Son panier est une démonstration locale et le paiement est volontairement désactivé. Il n'est **pas connecté** à Printful ou DropShipPrint et ne transmet aucune commande à un fournisseur.
 
-1. Commander un échantillon et contrôler la matière, la coupe, les coutures, les tailles et le rendu.
-2. Demander une grille de prix écrite, les frais de port, les minimums de commande et les délais réels.
-3. Vérifier par écrit le droit d'utiliser les photos du fournisseur et de revendre les articles.
-4. Confirmer le stock et la procédure de retour/remboursement.
-5. Calculer le coût complet : achat, transport, emballage, paiement, retours, taxes et publicité.
-6. Ne publier un produit comme disponible qu'après validation du fournisseur et de la capacité à le livrer.
-7. Pour du dropshipping, confirmer explicitement l'expédition à l'unité au client final, le suivi colis et l'absence de facture ou publicité du fournisseur dans le colis.
+Pour automatiser réellement les ventes, il faudra choisir une solution de boutique compatible ou développer une intégration sécurisée. Ne jamais mettre de clé API secrète dans le code HTML public du site. Avant toute ouverture des paiements, il faudra aussi préparer les informations légales, CGV, politique de confidentialité, livraison, retours et rétractation.
+
+## Autres pistes à garder pour plus tard
+
+| Fournisseur | Intérêt pour AVK | À vérifier |
+|---|---|---|
+| [Black Industry — espace professionnel](https://blackindustry.com/pages/espace-professionnel) | Textile vierge : t-shirts, sweats, hoodies et pantalons. | Compte pro, tarifs HT, stocks, minimums et expédition directe au client final. |
+| [STYCLOV](https://www.europages.fr/entreprises/france/streetwear.html) | T-shirts oversize et basiques streetwear. | Prix exact, minimum de commande, tailles, livraison et retours. |
+| [Amikal Design](https://www.amikal-design.com/) | Textile vierge et personnalisé. | Devis revendeur, prix unitaires, frais de marquage et délais. |
+| [Uniforméo](https://uniformeo.com/) | Textile, casquettes, sacs et accessoires personnalisables. | Accès pro, tarifs HT, minimums et frais de personnalisation. |
+
+Les grossistes en lots et les fournisseurs qui exigent un minimum de commande sont moins adaptés au démarrage sans stock.
+
+## Contrôles obligatoires avant la première vente
+
+- Commander et contrôler un échantillon.
+- Obtenir les prix complets, frais de livraison et délais par écrit.
+- Vérifier les tailles, coloris, stocks et politique de retours.
+- Confirmer les droits d'utilisation des visuels et la revente.
+- Vérifier si les colis sont expédiés en marque blanche et avec quel nom d'expéditeur.
+- Confirmer le suivi colis et la procédure en cas de perte ou de défaut.
+- Calculer la marge réelle avant d'afficher un prix.
+- Ne pas encaisser de commande tant que le paiement, la livraison et les obligations légales ne sont pas prêts.
 
 ## Prix de vente envisagés sur le catalogue AVK
 
@@ -44,7 +58,5 @@ Le vintage en lots et les fournisseurs avec minimum de commande peuvent être in
 - Jogging et cargo : 29,90 à 34,90 €
 - Casquette et bonnet : 14,90 à 16,90 €
 - Petits accessoires : 9,90 à 24,90 €
-- Sacs : 24,90 à 29,90 €
-- Sneakers : 54,90 à 64,90 €
 
-Ces prix sont des hypothèses de positionnement. Ils devront être recalculés avec les vrais coûts fournisseurs avant l'ouverture des ventes.
+Ces montants sont des hypothèses de positionnement, pas des marges garanties. Ils devront être recalculés à partir des prix fournisseurs réellement obtenus.
